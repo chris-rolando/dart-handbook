@@ -13,8 +13,10 @@
 ## 👑 ¿Cuándo usar?
 - Desarrollo de aplicaciones móviles.
 
-## 🦖 Notas personales
+## 🦖 Notas
 Tomar de base JS
+
+Nota: dartpad para usar en línea: https://dartpad.dev/
 
 ---
 
